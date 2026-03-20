@@ -33,7 +33,7 @@ video {
 <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 <script>
 var video = document.getElementById('video');
-var videoSrc = 'https://cctv.bandungkab.go.id/ed0b262d5dcdff42b65f0b036427cced/hls/dishub01/08fP29L14l/s.m3u8';
+var videoSrc = 'https://cctv.bandungkab.go.id/b4b96cec30ef44cc949aeb7c4cd5568b/hls/dishub01/08fP29L14l/s.m3u8';
 
 if (Hls.isSupported()) {
   var hls = new Hls();
